@@ -10,6 +10,7 @@ db.sqlite3
 
 # Картинки
 /media
+products/
 
 # Виртуальное окружение
 venv/
